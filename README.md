@@ -1,6 +1,6 @@
 by jian vilanueva
 
-Job title: cook
+Job title: hamburger maker
 
 Description: 
 cooks help organize the kitchen. they plan, prepare, follow storage procedures, cook food items, and they ensure proper food handling.
@@ -9,10 +9,10 @@ General Responsibilities
 
  - ensure ingredients and products are fresh
  
- - follow recipes, including measuring and mixing ingredients
+ - pre-heat the grill
  
- - bake, grill, steam and boil meats, vegetables, fish, poultry and other foods
+ - cook and flip the burgers
  
- - prepare and arrange dishes
+ - prepare and arrange toppings
  
  - serve food
