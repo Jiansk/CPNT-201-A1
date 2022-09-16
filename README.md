@@ -1,9 +1,9 @@
-by jian vilanueva
+Jian Vilanueva
 
-Job title: hamburger maker
+Job title: crew member(grill)
 
 Description: 
-cooks help organize the kitchen. they plan, prepare, follow storage procedures, cook food items, and they ensure proper food handling.
+ grill cooks help organize the kitchen. they plan, prepare, follow storage procedures, cook food items, and they ensure proper food handling.
 
 General Responsibilities
 
