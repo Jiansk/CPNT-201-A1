@@ -1,10 +1,11 @@
 by jian vilanueva
 
-job title: cook
+Job title: cook
 
-description: cooks help organize the kitchen. they plan, prepare, follow storage procedures, cook food items, and they ensure proper food handling.
+Description: 
+cooks help organize the kitchen. they plan, prepare, follow storage procedures, cook food items, and they ensure proper food handling.
 
-general responsibilities
+General Responsibilities
 
  - ensure ingredients and products are fresh
  
